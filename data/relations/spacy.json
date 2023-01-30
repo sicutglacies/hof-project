@@ -1,0 +1,737 @@
+[
+    {
+        "title": "In Silico Drug Repurposing using Knowledge Graph Embeddings for Alzheimer's Disease",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Report on the 5th International Workshop on Narrative Extraction from Texts (Text2Story 2022) at ECIR 2022",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Report on the 2nd Symposium on Artificial Intelligence and Law (SAIL) 2022",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "An Intelligent Patient Admission Model of Day Surgery Using Heterogeneous Data with Semi-Supervised Learning",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy",
+            "precision"
+        ]
+    },
+    {
+        "title": "Chair's Letter",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "ReACT: Redundancy-Aware Code Generation for Tensor Expressions",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Report on the 25th Australasian Document Computing Symposium (ADCS 2021)",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Tool recommendation for workflow composition using frequent patterns",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Q-gym: An Equality Saturation Framework for DNN Inference Exploiting Weight Repetition",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Automated Generation of Human-readable Natural Arabic Text from RDF DataJust Accepted",
+        "languages": [
+            "English",
+            "Arabic"
+        ],
+        "topics": [],
+        "metrics": [
+            "accuracy",
+            "perplexity",
+            "bleu"
+        ]
+    },
+    {
+        "title": "Guiding Feature Models Synthesis from User-Stories: An Exploratory Approach",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "The Choice of Textual Knowledge Base in Automated Claim CheckingJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "A Multi-Label Classification with an Adversarial-Based Denoising Autoencoder for Medical Image Annotation",
+        "languages": [],
+        "topics": [
+            "engineering"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Implementing Data Exfiltration Defense in Situ: A Survey of Countermeasures and Human InvolvementJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "A Comparative Survey of Instance Selection Methods applied to NonNeural and Transformer-Based Text ClassificationJust Accepted",
+        "languages": [],
+        "topics": [
+            "art",
+            "engineering"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Evaluation of ASR Systems for Conversational Speech: A Linguistic Perspective",
+        "languages": [
+            "French"
+        ],
+        "topics": [
+            "art"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "AI Therapist for Daily Functioning Assessment and Intervention Using Smart Home Devices",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Green Mark Certified Buildings Metadata from Singapore: Dataset",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL",
+        "languages": [],
+        "topics": [
+            "engineering"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Computational Challenges and Approaches for Electric VehiclesJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "\nSAT-Reach: A Bounded Model Checker for Affine Hybrid Systems",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Self-Supervised and Interpretable Data Cleaning with Sequence Generative Adversarial Networks",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Cyclic Self-attention for Point Cloud Recognition",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "TSSuBERT: How to Sum Up Multiple Years of Reading in a Few TweetsJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "A PPA Study of Reinforced Placement Parameter Autotuning: Pseudo-3D vs. True-3D PlacersJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Explaining Recommendations Through Conversations - Dialog Model and the Effects of Interface Type and Degree of InteractivityJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Handling Bias in Toxic Speech Detection: A SurveyJust Accepted",
+        "languages": [],
+        "topics": [
+            "geography"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Understanding the Use of Emerging Technologies in the Public Sector: A Review of Horizon 2020 ProjectsJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "The Lean Data Scientist: Recent Advances Toward Overcoming the Data Bottleneck",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "DSGA: Distractor-Suppressing Graph Attention for Multi-object Tracking",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Detection of Offensive Language and its Severity for Low Resource LanguageJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "An Intelligent Approach Based on Cleaning up of Inutile Contents for Extremism Detection and Classification in Social NetworksJust Accepted",
+        "languages": [
+            "English"
+        ],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Malayalam Natural Language Processing: Challenges in Building a Phrase-Based Statistical Machine Translation SystemJust Accepted",
+        "languages": [
+            "English"
+        ],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Emotional Intelligence Attention Unsupervised Learning Using Lexicon Analysis for Irony Based AdvertisingJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Bottom-up and Top-down Object Inference Networks for Image CaptioningJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Bidirectional Sentence Ordering with Interactive DecodingJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Fine-Grained Interaction Modeling with Multi-Relational Transformer for Knowledge TracingJust Accepted",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "VM Failure Prediction with Log Analysis using BERT-CNN Model",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Multi-Task Label-Wise Transformer for Chinese Named Entity RecognitionJust Accepted",
+        "languages": [
+            "Chinese"
+        ],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Bach Genre Music Generation with WaveNet\u2014A Steerable CNN-based Method with Different Temperature Parameters",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Hardware Trojan Detection Using Machine Learning: A TutorialJust Accepted",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Owl Checker: Identifying Misinformation through the Help of Wikipedia",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "\nPersonality Detection using Kernel-based Ensemble Model for leveraging Social Psychology in Online Networks\nJust Accepted",
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "topics": [
+            "psychology"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "A TDA Approach of Analyzing Election Speeches with NLP Techniques",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Summary of the 1st Natural Language-based Software Engineering Workshop (NLBSE 2022)",
+        "languages": [],
+        "topics": [
+            "engineering"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "BERT Model Compression With Decoupled Knowledge Distillation And Representation Learning",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Artificial Intelligence in Mental Health: A Qualitative Expert Study on Realistic Application Scenarios and Future Directions",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Are Research Trends in the Consortium for Computing Sciences in Colleges Regionalized?",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Machine Reading Comprehension Based on SpanBERT and Dynamic Convolutional Attention",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Detection and cross-domain evaluation of cyberbullying in Facebook activity contents for TurkishJust Accepted",
+        "languages": [
+            "Turkish"
+        ],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Research of Network Hotspot Events Joint Extracting Based on BERT-CNN-CRF Model for Internet Public Opinion",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Chatbots in Marketing: An In-Deep Case Study Capturing Future Perspectives of AI in Advertising",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "RansomShield: A Visualization Approach to Defending Mobile Systems Against RansomwareJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Design of a Novel Information System for Semi-automated Management of Cybersecurity in Industrial Control Systems",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "A Survey on Recent Approaches to Question Difficulty Estimation from Text",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Trustworthy AI: From Principles to Practices",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Emotion Ontology Studies: A Framework for Expressing Feelings Digitally and its Application to Sentiment Analysis",
+        "languages": [],
+        "topics": [
+            "psychology"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Read the News, Not the Books: Forecasting Firms\u2019 Long-term Financial Performance via Deep Text Mining",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "A Survey of User Perspectives on Security and Privacy in a Home Networking Environment",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Using Low-Resourced Language in Social Media Platforms Towards Disease Surveillance for Public Health Monitoring using Artificial Intelligence",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "EmbRace: Accelerating Sparse Communication for Distributed Training of Deep Neural Networks",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Characterizing and Optimizing Transformer Inference on ARM Many-core Processor",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Android-Based Chatbot Application Using Back Propagation Neural Network to Help the First Treatment of Children\u2019s Diseases",
+        "languages": [
+            "Indonesian"
+        ],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "TCB: Accelerating Transformer Inference Services with Request Concatenation",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "HSP: Hybrid Synchronous Parallelism for Fast Distributed Deep Learning",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "A Large-Scale Characterization of How Readers Browse WikipediaJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "A Generative-Based Chatbot for Daily Conversation: A Preliminary Study",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "bleu"
+        ]
+    },
+    {
+        "title": "Kansei Engineering Evaluation on Game Design Using Customer Reviews",
+        "languages": [],
+        "topics": [
+            "engineering"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Tesseract: Parallelize the Tensor Parallelism Efficiently",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "COVID-19 Vaccines in Indonesia: A Public Opinion Study Based on Twitter Data Multidimensional Sentiment Analysis",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "HARL: Hierarchical Adaptive Reinforcement Learning Based Auto Scheduler for Neural Networks",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Efficient On-Device Session-Based RecommendationJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and DirectionsJust Accepted",
+        "languages": [],
+        "topics": [
+            "history",
+            "art"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "Overview of the FIRE 2022 track: Information Retrieval from Microblogs during Disasters (IRMiDis)",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "GLAF: Global-and-Local Attention Flow Model for Question Answering",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Causal Categorization of Mental Health Posts using Transformers",
+        "languages": [],
+        "topics": [
+            "psychology"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "FIRE 2022 ILSUM Track: Indian Language Summarization",
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "topics": [],
+        "metrics": [
+            "rouge"
+        ]
+    },
+    {
+        "title": "[email\u00a0protected]: Shared Track on Emotions and Threat Detection in Urdu",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Batch Layer Normalization A new normalization layer for CNNs and RNNs",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "A new method of Figurative Rhetoric Recognition based on Automated Essay Scoring of the Oversea Chinese Students\u2019 Instructional Composition Corpus",
+        "languages": [
+            "Chinese"
+        ],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Overview of the HASOC Subtrack at FIRE 2022: Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages",
+        "languages": [
+            "Hindi",
+            "English",
+            "German"
+        ],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Findings of shared task on Sentiment Analysis and Homophobia Detection of YouTube Comments in Code-Mixed Dravidian Languages",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "On the Construction of Knowledge-Communication-Oriented Computer Spoken Corpus for Endangered Languages",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "\u201cIf you can\u2019t beat them, join them\u201d: A Word Transformation based Generalized Skip-gram for Embedding Compound Words",
+        "languages": [
+            "English"
+        ],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Online Psychological Counseling Chatbot for Seniors",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Triplet Loss based Siamese Networks for Automatic Short Answer Grading",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Extracting Ironic Tweets using Experts Model",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "Prospects for the use of algebraic rings to describe the operation of convolutional neural networks",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "TransFloor: Transparent Floor Localization for Crowdsourcing Instant Delivery",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Multi-Objective Hardware-Aware Neural Architecture Search with Pareto Rank-Preserving Surrogate ModelsJust Accepted",
+        "languages": [],
+        "topics": [
+            "art"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    },
+    {
+        "title": "I Spy You: Eavesdropping Continuous Speech on Smartphones via Motion Sensors",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "NeuralGait: Assessing Brain Health Using Your Smartphone",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "AI-Augmented Business Process Management Systems: A Research ManifestoJust Accepted",
+        "languages": [],
+        "topics": [
+            "business"
+        ],
+        "metrics": []
+    },
+    {
+        "title": "PhysiQ: Off-site Quality Assessment of Exercise in Physical Therapy",
+        "languages": [],
+        "topics": [],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "PrISM-Tracker: A Framework for Multimodal Procedure Tracking Using Wearable Sensors and State Transition Information with User-Driven Handling of Errors and Uncertainty",
+        "languages": [],
+        "topics": [
+            "art",
+            "engineering"
+        ],
+        "metrics": [
+            "accuracy"
+        ]
+    },
+    {
+        "title": "Multi-Stage Machine Learning Model for Hierarchical Tie Valence PredictionJust Accepted",
+        "languages": [],
+        "topics": [],
+        "metrics": []
+    }
+]
